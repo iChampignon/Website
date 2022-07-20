@@ -1,5 +1,5 @@
 import streamlit as st
-
+# please install streamlit first
 # Find more emojis here https://www.webfx.com/tools/emoji-cheat-sheet/
 # Down Below is title of the page
 st.set_page_config(page_title="My Webpage", page_icon=":umbrella:")
